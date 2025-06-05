@@ -1,1 +1,1 @@
-console.log("PreRun DEDICATED executed.");
+console.log("PreRun executed.");
