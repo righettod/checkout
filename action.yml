@@ -105,5 +105,6 @@ outputs:
     description: 'The commit SHA that was checked out'
 runs:
   using: node20
+  pre: dist/pre.js
   main: dist/index.js
   post: dist/index.js
