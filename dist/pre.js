@@ -1,1 +1,1 @@
-console.log("PreRun classic executed.");
+console.log("PreRun DEDICATED executed.");
